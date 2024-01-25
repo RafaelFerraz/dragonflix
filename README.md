@@ -1,9 +1,11 @@
 # DRAGONFLIX :dragon:
 
-##### Este projeto foi desenvolvido para o Bootcamp HTML Web Developer da _Digital Innovation One_.
+##### This project was developed for the HTML Web Developer Bootcamp at _Digital Innovation One_ (https://www.dio.me/).
 
-### Tecnologias utilizadas:
+## Technologies used:
 
 - HTML5
 - CSS3
-- JQuery
+- jQuery
+
+- ### Access: https://dragonflix.netlify.app/
